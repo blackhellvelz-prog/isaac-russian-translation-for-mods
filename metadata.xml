@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<name>Russian Translation for Mods</name>
+	<directory>rutranslation</directory>
+	<description>[h1]Russian Translation for Mods[/h1]
+A Russian translation for popular mods, on top of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url]: it covers what Mod Translator doesn't. Works only when the game language is Russian — with English the game and the mods stay as they are.
+
+[h2]What is translated[/h2]
+[list]
+[*][b]Items, trinkets, cards, pills[/b] — names, pickup texts and EID descriptions (about 900 names and 2000 descriptions): Fiend Folio, IPECAC, Lost and Forgotten, Furtherance, Heaven's Call, Magic-Expanded, Flipped Runes and smaller mods; golden trinket and Mom's Box effects, birthrights, Book of Virtues wisps.
+[*][b]Passive Skill Trees[/b] — every node, tree names, help pages (with Russian pictures), the level bar.
+[*][b]Dead Sea Scrolls menus[/b] of all mods (settings, changelog headers, tips), [b]Mod Config Menu[/b] sections, [b]Encyclopedia[/b] articles (the main sections of thousands of entries).
+[*][b]Fiend Folio fortunes[/b] (about 6700), pop-up texts of mods, built-in mod labels, the REPENTOGON stats page.
+[*][b]Pictures[/b]: the official Russian pictures of the game (boss versus screen, giant book, controls on the floor) and Russian versions of mod pictures (controls of modded characters, PST help) — swapped in only with the Russian language.
+[/list]
+
+[h2]Requirements[/h2]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3127536138]REPENTOGON[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url] (its Cyrillic fonts)
+[*]the mods you want translated — only installed ones are touched
+[/list]
+
+[h2]Links[/h2]
+Source code: [url=https://github.com/blackhellvelz-prog/isaac-russian-translation-for-mods]GitHub[/url]
+More from the same set: Basement Scrapbook Menu, Dead Sea Scrolls: Unrolled, Talents for Everyone, Peat, Isaac-Style, Mod Fixes &amp; Speedups.
+
+Made with Universal Modder. The translated texts belong to the authors of the original mods. Author: blackhellvelz.</description>
+	<version>1.0</version>
+	<visibility>Public</visibility>
+	<tag id="Lua"/>
+	<tag id="Tweaks"/>
+</metadata>

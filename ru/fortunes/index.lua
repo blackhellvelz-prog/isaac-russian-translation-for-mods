@@ -1,0 +1,20 @@
+-- localfixes: список частей русских предсказаний (tools/fortunes_build.py)
+return {
+	"ru.fortunes.dc_0001",
+	"ru.fortunes.ff_0001",
+	"ru.fortunes.ff_0002",
+	"ru.fortunes.ff_0003",
+	"ru.fortunes.ff_0004",
+	"ru.fortunes.ff_0005",
+	"ru.fortunes.ff_0006",
+	"ru.fortunes.ff_0007",
+	"ru.fortunes.ff_0008",
+	"ru.fortunes.ff_0082",
+	"ru.fortunes.ff_0083",
+	"ru.fortunes.ff_0084",
+	"ru.fortunes.ff_0085",
+	"ru.fortunes.ff_0086",
+	"ru.fortunes.ff_0087",
+	"ru.fortunes.tt_0001",
+	"ru.fortunes.xj_0001",
+}
