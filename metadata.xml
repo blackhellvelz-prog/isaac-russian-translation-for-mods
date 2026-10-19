@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>Russian Translation for Mods</name>
+	<name>Русский перевод модов (Russian Translation for Mods)</name>
 	<directory>rutranslation</directory>
-	<description>[h1]Russian Translation for Mods[/h1]
-A Russian translation for popular mods, on top of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url]: it covers what Mod Translator doesn't. Works only when the game language is Russian — with English the game and the mods stay as they are.
+	<id>3822878113</id>
+	<description>[i]Russian translation for popular Isaac mods — works only when the game language is Russian.[/i]
 
-[h2]What is translated[/h2]
+[h1]Русский перевод модов (Russian Translation for Mods)[/h1]
+Русский перевод популярных модов поверх [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url]: здесь то, чего в нём нет. Работает только при русском языке игры — с английским игра и моды остаются как есть.
+
+[h2]Что переведено[/h2]
 [list]
-[*][b]Items, trinkets, cards, pills[/b] — names, pickup texts and EID descriptions (about 900 names and 2000 descriptions): Fiend Folio, IPECAC, Lost and Forgotten, Furtherance, Heaven's Call, Magic-Expanded, Flipped Runes and smaller mods; golden trinket and Mom's Box effects, birthrights, Book of Virtues wisps.
-[*][b]Passive Skill Trees[/b] — every node, tree names, help pages (with Russian pictures), the level bar.
-[*][b]Dead Sea Scrolls menus[/b] of all mods (settings, changelog headers, tips), [b]Mod Config Menu[/b] sections, [b]Encyclopedia[/b] articles (the main sections of thousands of entries).
-[*][b]Fiend Folio fortunes[/b] (about 6700), pop-up texts of mods, built-in mod labels, the REPENTOGON stats page.
-[*][b]Pictures[/b]: the official Russian pictures of the game (boss versus screen, giant book, controls on the floor) and Russian versions of mod pictures (controls of modded characters, PST help) — swapped in only with the Russian language.
+[*][b]Предметы, брелоки, карты, пилюли[/b] — названия, надписи при подборе и описания EID (около 900 названий и 2000 описаний): Fiend Folio, IPECAC, Lost and Forgotten, Furtherance, Heaven's Call, Magic-Expanded, Flipped Runes и небольшие моды; эффекты золотых брелоков и Маминой шкатулки, права первородства, огоньки Книги добродетелей.
+[*][b]Passive Skill Trees[/b] — все узлы, названия деревьев, справка (с русскими картинками), полоса уровня.
+[*][b]Меню Dead Sea Scrolls[/b] всех модов (настройки, заголовки журналов, подсказки), разделы [b]Mod Config Menu[/b], статьи [b]Encyclopedia[/b] (главные разделы тысяч статей).
+[*][b]Предсказания Fiend Folio[/b] (около 6700), всплывающие надписи модов, вшитые надписи модов, страница статистики REPENTOGON.
+[*][b]Картинки[/b]: официальные русские картинки игры (экран «против босса», большая книга, управление на полу) и русские версии картинок модов (управление у персонажей модов, справка PST) — подставляются только при русском языке.
 [/list]
 
-[h2]Requirements[/h2]
+[h2]Нужно[/h2]
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3127536138]REPENTOGON[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url] (its Cyrillic fonts)
-[*]the mods you want translated — only installed ones are touched
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881743468]Mod Translator[/url] (его шрифты с кириллицей)
+[*]моды, которые нужно перевести, — переводятся только установленные
 [/list]
 
-[h2]Links[/h2]
-Source code: [url=https://github.com/blackhellvelz-prog/isaac-russian-translation-for-mods]GitHub[/url]
-More from the same set: Basement Scrapbook Menu, Dead Sea Scrolls: Unrolled, Talents for Everyone, Peat, Isaac-Style, Mod Fixes &amp; Speedups.
+[h2]Ссылки[/h2]
+Исходный код: [url=https://github.com/blackhellvelz-prog/isaac-russian-translation-for-mods]GitHub[/url]
+Из того же набора: Basement Scrapbook Menu, Dead Sea Scrolls: Unrolled, Talents for Everyone, Peat, Isaac-Style, Mod Fixes &amp; Speedups.
 
-Made with Universal Modder. The translated texts belong to the authors of the original mods. Author: blackhellvelz.</description>
+Сделано с помощью Universal Modder. Исходные тексты принадлежат авторам переведённых модов. Автор: blackhellvelz.</description>
 	<version>1.0</version>
 	<visibility>Public</visibility>
 	<tag id="Lua"/>
